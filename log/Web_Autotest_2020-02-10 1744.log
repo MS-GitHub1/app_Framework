@@ -1,0 +1,33 @@
+ Mon, 10 Feb 2020 17:44:16  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Mon, 10 Feb 2020 17:44:37  INFO base.py wait_ele [ line:41 ] 点击我的柠檬按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_my') 元素可见
+ Mon, 10 Feb 2020 17:44:40  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:37.202242,结束时间为:2020-02-10 17:44:40.613362,一共等待耗时为:0:00:03.411120
+ Mon, 10 Feb 2020 17:44:40  INFO base.py get_ele [ line:57 ] 点击我的柠檬按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_my') 元素.
+ Mon, 10 Feb 2020 17:44:40  INFO base.py click_ele [ line:70 ] 点击我的柠檬按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_my') 元素 
+ Mon, 10 Feb 2020 17:44:40  INFO base.py wait_ele [ line:41 ] wenben : 等待 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素可见
+ Mon, 10 Feb 2020 17:44:41  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:40.693394,结束时间为:2020-02-10 17:44:41.388551,一共等待耗时为:0:00:00.695157
+ Mon, 10 Feb 2020 17:44:41  INFO base.py get_ele [ line:57 ] wenben : 查找 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素.
+ Mon, 10 Feb 2020 17:44:41  INFO base.py get_attr [ line:96 ] wenben: 获取 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title')  元素的文本内容.
+ Mon, 10 Feb 2020 17:44:41  INFO base.py get_attr [ line:104 ] 获取的文本值为: 点击头像登录
+ Mon, 10 Feb 2020 17:44:41  INFO base.py wait_ele [ line:41 ] 点击我的柠檬按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_my') 元素可见
+ Mon, 10 Feb 2020 17:44:41  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:41.428583,结束时间为:2020-02-10 17:44:41.475650,一共等待耗时为:0:00:00.047067
+ Mon, 10 Feb 2020 17:44:41  INFO base.py get_ele [ line:57 ] 点击我的柠檬按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_my') 元素.
+ Mon, 10 Feb 2020 17:44:41  INFO base.py click_ele [ line:70 ] 点击我的柠檬按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_my') 元素 
+ Mon, 10 Feb 2020 17:44:41  INFO base.py wait_ele [ line:41 ] 点击头像登录按钮 : 等待 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素可见
+ Mon, 10 Feb 2020 17:44:42  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:41.534210,结束时间为:2020-02-10 17:44:42.058483,一共等待耗时为:0:00:00.524273
+ Mon, 10 Feb 2020 17:44:42  INFO base.py get_ele [ line:57 ] 点击头像登录按钮 : 查找 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素.
+ Mon, 10 Feb 2020 17:44:42  INFO base.py click_ele [ line:70 ] 点击头像登录按钮: 点击 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素 
+ Mon, 10 Feb 2020 17:44:42  INFO base.py wait_ele [ line:41 ] 输入手机号 : 等待 ('id', 'com.lemon.lemonban:id/et_mobile') 元素可见
+ Mon, 10 Feb 2020 17:44:43  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:42.105308,结束时间为:2020-02-10 17:44:43.586310,一共等待耗时为:0:00:01.481002
+ Mon, 10 Feb 2020 17:44:43  INFO base.py get_ele [ line:57 ] 输入手机号 : 查找 ('id', 'com.lemon.lemonban:id/et_mobile') 元素.
+ Mon, 10 Feb 2020 17:44:43  INFO base.py send_text [ line:82 ] 输入手机号: 对 ('id', 'com.lemon.lemonban:id/et_mobile') 元素输入文本 15831268320
+ Mon, 10 Feb 2020 17:44:44  INFO base.py wait_ele [ line:41 ] 输入密码 : 等待 ('id', 'com.lemon.lemonban:id/et_password') 元素可见
+ Mon, 10 Feb 2020 17:44:44  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:44.169960,结束时间为:2020-02-10 17:44:44.692302,一共等待耗时为:0:00:00.522342
+ Mon, 10 Feb 2020 17:44:44  INFO base.py get_ele [ line:57 ] 输入密码 : 查找 ('id', 'com.lemon.lemonban:id/et_password') 元素.
+ Mon, 10 Feb 2020 17:44:44  INFO base.py send_text [ line:82 ] 输入密码: 对 ('id', 'com.lemon.lemonban:id/et_password') 元素输入文本 
+ Mon, 10 Feb 2020 17:44:44  INFO base.py wait_ele [ line:41 ] 点击登录按钮 : 等待 ('id', 'com.lemon.lemonban:id/btn_login') 元素可见
+ Mon, 10 Feb 2020 17:44:45  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-10 17:44:44.740129,结束时间为:2020-02-10 17:44:45.263142,一共等待耗时为:0:00:00.523013
+ Mon, 10 Feb 2020 17:44:45  INFO base.py get_ele [ line:57 ] 点击登录按钮 : 查找 ('id', 'com.lemon.lemonban:id/btn_login') 元素.
+ Mon, 10 Feb 2020 17:44:45  INFO base.py click_ele [ line:70 ] 点击登录按钮: 点击 ('id', 'com.lemon.lemonban:id/btn_login') 元素 
+ Mon, 10 Feb 2020 17:44:45  INFO base.py get_ele [ line:57 ] 获取 : 查找 ('xpath', '//*[contains(@text,"手机号码或密码")]') 元素.
+ Mon, 10 Feb 2020 17:44:45  INFO base.py get_toast [ line:124 ] 获取: 获取 ('xpath', '//*[contains(@text,"手机号码或密码")]')  元素的文本内容.
+ Mon, 10 Feb 2020 17:44:46  INFO base.py get_toast [ line:132 ] 获取的文本值为: 手机号码或密码不能为空

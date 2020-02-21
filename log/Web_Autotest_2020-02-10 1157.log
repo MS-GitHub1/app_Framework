@@ -1,0 +1,20 @@
+ Mon, 10 Feb 2020 11:57:07  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Mon, 10 Feb 2020 11:57:08  INFO remote_connection.py __init__ [ line:117 ] Could not connect to port 4723 on host 127.0.0.1
+ Mon, 10 Feb 2020 11:57:08  INFO remote_connection.py __init__ [ line:136 ] Could not get IP address for host: 127.0.0.1
+ Mon, 10 Feb 2020 11:57:09  WARNING connectionpool.py urlopen [ line:745 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6B29BD608>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+ Mon, 10 Feb 2020 11:57:10  WARNING connectionpool.py urlopen [ line:745 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6B29D4048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+ Mon, 10 Feb 2020 11:57:11  WARNING connectionpool.py urlopen [ line:745 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6B29D4788>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+ Mon, 10 Feb 2020 11:57:30  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Mon, 10 Feb 2020 11:57:38  INFO base.py wait_ele [ line:40 ] 点击我的柠檬按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_my') 元素可见
+ Mon, 10 Feb 2020 11:57:41  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-10 11:57:38.149306,结束时间为:2020-02-10 11:57:41.049972,一共等待耗时为:0:00:02.900666
+ Mon, 10 Feb 2020 11:57:41  INFO base.py get_ele [ line:56 ] 点击我的柠檬按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_my') 元素.
+ Mon, 10 Feb 2020 11:57:41  INFO base.py click_ele [ line:69 ] 点击我的柠檬按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_my') 元素 
+ Mon, 10 Feb 2020 11:57:41  INFO base.py wait_ele [ line:40 ] wenben : 等待 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素可见
+ Mon, 10 Feb 2020 11:57:42  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-10 11:57:41.281791,结束时间为:2020-02-10 11:57:42.374054,一共等待耗时为:0:00:01.092263
+ Mon, 10 Feb 2020 11:57:42  INFO base.py get_ele [ line:56 ] wenben : 查找 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素.
+ Mon, 10 Feb 2020 11:57:42  INFO base.py get_attr [ line:95 ] wenben: 获取 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title')  元素的文本内容.
+ Mon, 10 Feb 2020 11:57:42  INFO base.py get_attr [ line:103 ] 获取的文本值为: Mr Feng
+ Mon, 10 Feb 2020 11:57:42  INFO base.py wait_ele [ line:40 ] 点击设置按钮 : 等待 ('class name', 'android.widget.ImageButton') 元素可见
+ Mon, 10 Feb 2020 11:57:42  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-10 11:57:42.443343,结束时间为:2020-02-10 11:57:42.496042,一共等待耗时为:0:00:00.052699
+ Mon, 10 Feb 2020 11:57:42  INFO base.py get_ele [ line:56 ] 点击设置按钮 : 查找 ('class name', 'android.widget.ImageButton') 元素.
+ Mon, 10 Feb 2020 11:57:42  INFO base.py click_ele [ line:69 ] 点击设置按钮: 点击 ('class name', 'android.widget.ImageButton') 元素 

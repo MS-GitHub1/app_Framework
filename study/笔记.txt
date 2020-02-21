@@ -1,0 +1,29 @@
+adb devices  查看手机连接
+adb shell 进入到手机中
+adb shell dumpsys window | findstr mCurrentFocus 打开需要获取的APP，运行一下命令即可
+adb shell dumpsys activity | findstr "mFocusedActivity"  adb命令获取当前界面Activity
+adb start server  启动adb
+adb kill server   关闭adb
+pm list packages -f
+adb shell pm path +apk包名路径信息
+adb pull  手机路径  电脑路径
+//模拟输入“001”
+adb shell input text “001”
+//模拟home按键
+adb shell input keyevent 3
+//模拟点击(540, 1104)坐标
+adb shell input tap 540 1104
+查进程  adb shell dumpsys activity top | findstr ACTIVITY
+进入进程 adb shell ps 3049
+
+#使用android中的uiattomator定位
+# new UiSelector().resourceId("com.lemon.lemonban:id/navigation_my")
+# 组合定位根据对应的值调取对应的方法
+# .（该链接下：https://developer.android.com/reference/androidx/test/uiautomator/UiSelector）得方法 和定位的属性值
+# 组合定位 new UiSelector().resourceId("com.lemon.lemonban:id/navigation_my").className("android.widget.FrameLayout")
+driver.find_element_by_android_uiautomator('new UiSelector().resourceId("com.lemon.lemonban:id/navigation_my")')
+应用切换
+driver.start_activity
+
+获取系统版本：adb shell getprop ro.build.version.release
+获取手机型号：adb shell getprop ro.product.model

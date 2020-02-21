@@ -1,0 +1,34 @@
+ Sun, 09 Feb 2020 20:22:14  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Sun, 09 Feb 2020 20:22:22  INFO base.py wait_ele [ line:40 ] 点击我的柠檬按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_my') 元素可见
+ Sun, 09 Feb 2020 20:22:25  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:22.461249,结束时间为:2020-02-09 20:22:25.073876,一共等待耗时为:0:00:02.612627
+ Sun, 09 Feb 2020 20:22:25  INFO base.py get_ele [ line:56 ] 点击我的柠檬按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_my') 元素.
+ Sun, 09 Feb 2020 20:22:25  INFO base.py click_ele [ line:69 ] 点击我的柠檬按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_my') 元素 
+ Sun, 09 Feb 2020 20:22:25  INFO base.py wait_ele [ line:40 ] wenben : 等待 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素可见
+ Sun, 09 Feb 2020 20:22:25  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:25.243906,结束时间为:2020-02-09 20:22:25.927062,一共等待耗时为:0:00:00.683156
+ Sun, 09 Feb 2020 20:22:25  INFO base.py get_ele [ line:56 ] wenben : 查找 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title') 元素.
+ Sun, 09 Feb 2020 20:22:25  INFO base.py get_element_text [ line:94 ] wenben: 获取 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_title')  元素的文本内容.
+ Sun, 09 Feb 2020 20:22:25  INFO base.py get_element_text [ line:102 ] 获取的文本值为: 点击头像登录
+ Sun, 09 Feb 2020 20:22:25  INFO base.py wait_ele [ line:40 ] 点击我的柠檬按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_my') 元素可见
+ Sun, 09 Feb 2020 20:22:26  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:25.958280,结束时间为:2020-02-09 20:22:26.011961,一共等待耗时为:0:00:00.053681
+ Sun, 09 Feb 2020 20:22:26  INFO base.py get_ele [ line:56 ] 点击我的柠檬按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_my') 元素.
+ Sun, 09 Feb 2020 20:22:26  INFO base.py click_ele [ line:69 ] 点击我的柠檬按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_my') 元素 
+ Sun, 09 Feb 2020 20:22:29  INFO base.py wait_ele [ line:40 ] 点击头像登录按钮 : 等待 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素可见
+ Sun, 09 Feb 2020 20:22:29  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:29.195742,结束时间为:2020-02-09 20:22:29.308615,一共等待耗时为:0:00:00.112873
+ Sun, 09 Feb 2020 20:22:29  INFO base.py get_ele [ line:56 ] 点击头像登录按钮 : 查找 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素.
+ Sun, 09 Feb 2020 20:22:29  INFO base.py click_ele [ line:69 ] 点击头像登录按钮: 点击 ('id', 'com.lemon.lemonban:id/fragment_my_lemon_avatar_layout') 元素 
+ Sun, 09 Feb 2020 20:22:29  INFO base.py wait_ele [ line:40 ] 输入手机号 : 等待 ('id', 'com.lemon.lemonban:id/et_mobile') 元素可见
+ Sun, 09 Feb 2020 20:22:30  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:29.707555,结束时间为:2020-02-09 20:22:30.239003,一共等待耗时为:0:00:00.531448
+ Sun, 09 Feb 2020 20:22:30  INFO base.py get_ele [ line:56 ] 输入手机号 : 查找 ('id', 'com.lemon.lemonban:id/et_mobile') 元素.
+ Sun, 09 Feb 2020 20:22:30  INFO base.py send_text [ line:81 ] 输入手机号: 对 ('id', 'com.lemon.lemonban:id/et_mobile') 元素输入文本 15831268320
+ Sun, 09 Feb 2020 20:22:34  INFO base.py wait_ele [ line:40 ] 输入密码 : 等待 ('id', 'com.lemon.lemonban:id/et_password') 元素可见
+ Sun, 09 Feb 2020 20:22:35  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:34.975759,结束时间为:2020-02-09 20:22:35.505381,一共等待耗时为:0:00:00.529622
+ Sun, 09 Feb 2020 20:22:35  INFO base.py get_ele [ line:56 ] 输入密码 : 查找 ('id', 'com.lemon.lemonban:id/et_password') 元素.
+ Sun, 09 Feb 2020 20:22:35  INFO base.py send_text [ line:81 ] 输入密码: 对 ('id', 'com.lemon.lemonban:id/et_password') 元素输入文本 268320
+ Sun, 09 Feb 2020 20:22:40  INFO base.py wait_ele [ line:40 ] 点击登录按钮 : 等待 ('id', 'com.lemon.lemonban:id/btn_login') 元素可见
+ Sun, 09 Feb 2020 20:22:40  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:40.312044,结束时间为:2020-02-09 20:22:40.877726,一共等待耗时为:0:00:00.565682
+ Sun, 09 Feb 2020 20:22:40  INFO base.py get_ele [ line:56 ] 点击登录按钮 : 查找 ('id', 'com.lemon.lemonban:id/btn_login') 元素.
+ Sun, 09 Feb 2020 20:22:40  INFO base.py click_ele [ line:69 ] 点击登录按钮: 点击 ('id', 'com.lemon.lemonban:id/btn_login') 元素 
+ Sun, 09 Feb 2020 20:22:41  INFO base.py wait_ele [ line:40 ] 点击题库按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素可见
+ Sun, 09 Feb 2020 20:22:43  INFO base.py wait_ele [ line:52 ] 等待结束.开始时间为2020-02-09 20:22:41.419411,结束时间为:2020-02-09 20:22:43.620384,一共等待耗时为:0:00:02.200973
+ Sun, 09 Feb 2020 20:22:43  INFO base.py get_ele [ line:56 ] 点击题库按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素.
+ Sun, 09 Feb 2020 20:22:43  INFO base.py click_ele [ line:69 ] 点击题库按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素 

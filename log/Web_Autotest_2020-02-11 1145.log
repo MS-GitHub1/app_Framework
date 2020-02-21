@@ -1,0 +1,9 @@
+ Tue, 11 Feb 2020 11:45:15  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Tue, 11 Feb 2020 11:45:33  INFO base.py wait_ele [ line:41 ] 点击题库按钮 : 等待 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素可见
+ Tue, 11 Feb 2020 11:45:36  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 11:45:33.347710,结束时间为:2020-02-11 11:45:36.878516,一共等待耗时为:0:00:03.530806
+ Tue, 11 Feb 2020 11:45:36  INFO base.py get_ele [ line:57 ] 点击题库按钮 : 查找 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素.
+ Tue, 11 Feb 2020 11:45:36  INFO base.py click_ele [ line:70 ] 点击题库按钮: 点击 ('id', 'com.lemon.lemonban:id/navigation_tiku') 元素 
+ Tue, 11 Feb 2020 11:45:36  INFO base.py wait_ele [ line:41 ] huadong : 等待 ('id', 'com.lemon.lemonban:id/fragment_category_type') 元素可见
+ Tue, 11 Feb 2020 11:45:38  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 11:45:36.995638,结束时间为:2020-02-11 11:45:38.031348,一共等待耗时为:0:00:01.035710
+ Tue, 11 Feb 2020 11:45:38  INFO base.py get_ele [ line:57 ] 查找元素 : 查找 ('-android uiautomator', 'new UiSelector().text("ISTQB")') 元素.
+ Tue, 11 Feb 2020 11:45:40  INFO base.py get_ele [ line:57 ] 查找元素 : 查找 ('-android uiautomator', 'new UiSelector().text("ISTQB")') 元素.

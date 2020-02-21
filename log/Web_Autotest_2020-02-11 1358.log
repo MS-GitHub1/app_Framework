@@ -1,0 +1,11 @@
+ Tue, 11 Feb 2020 13:58:52  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Tue, 11 Feb 2020 13:59:08  INFO base.py wait_ele [ line:41 ] 点击全程班 : 等待 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素可见
+ Tue, 11 Feb 2020 13:59:11  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 13:59:08.672793,结束时间为:2020-02-11 13:59:11.471542,一共等待耗时为:0:00:02.798749
+ Tue, 11 Feb 2020 13:59:11  INFO base.py get_ele [ line:57 ] 点击全程班 : 查找 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素.
+ Tue, 11 Feb 2020 13:59:11  INFO base.py click_ele [ line:70 ] 点击全程班: 点击 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素 
+ Tue, 11 Feb 2020 13:59:12  INFO base.py wait_ele [ line:41 ] 等待 : 等待 ('class name', 'android.webkit.WebView') 元素可见
+ Tue, 11 Feb 2020 13:59:13  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 13:59:12.812587,结束时间为:2020-02-11 13:59:13.698435,一共等待耗时为:0:00:00.885848
+ Tue, 11 Feb 2020 13:59:22  INFO base.py wait_ele [ line:41 ] 点击加群按钮 : 等待 ('xpath', '//span[@class="course-group-title"]') 元素可见
+ Tue, 11 Feb 2020 13:59:22  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 13:59:22.351065,结束时间为:2020-02-11 13:59:22.813840,一共等待耗时为:0:00:00.462775
+ Tue, 11 Feb 2020 13:59:22  INFO base.py get_ele [ line:57 ] 点击加群按钮 : 查找 ('xpath', '//span[@class="course-group-title"]') 元素.
+ Tue, 11 Feb 2020 13:59:22  INFO base.py click_ele [ line:70 ] 点击加群按钮: 点击 ('xpath', '//span[@class="course-group-title"]') 元素 

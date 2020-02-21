@@ -1,0 +1,7 @@
+ Tue, 11 Feb 2020 13:48:44  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Tue, 11 Feb 2020 13:49:24  INFO base.py wait_ele [ line:41 ] 点击全程班 : 等待 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素可见
+ Tue, 11 Feb 2020 13:49:27  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 13:49:24.148706,结束时间为:2020-02-11 13:49:27.325504,一共等待耗时为:0:00:03.176798
+ Tue, 11 Feb 2020 13:49:27  INFO base.py get_ele [ line:57 ] 点击全程班 : 查找 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素.
+ Tue, 11 Feb 2020 13:49:27  INFO base.py click_ele [ line:70 ] 点击全程班: 点击 ('-android uiautomator', 'new UiSelector().text("全程班")') 元素 
+ Tue, 11 Feb 2020 13:49:29  INFO base.py wait_ele [ line:41 ] 等待 : 等待 ('class name', 'android.webkit.WebView') 元素可见
+ Tue, 11 Feb 2020 13:49:30  INFO base.py wait_ele [ line:53 ] 等待结束.开始时间为2020-02-11 13:49:29.009965,结束时间为:2020-02-11 13:49:30.615448,一共等待耗时为:0:00:01.605483

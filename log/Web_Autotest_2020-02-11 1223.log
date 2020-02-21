@@ -1,0 +1,2 @@
+ Tue, 11 Feb 2020 12:23:03  INFO logger_handler.py <module> [ line:21 ] hehehe
+ Tue, 11 Feb 2020 12:23:23  INFO base.py wait_ele [ line:41 ] 点击全程班 : 等待 ('-android uiautomator', 'new UiSelector().text("ISTQB")') 元素可见
